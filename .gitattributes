@@ -1,0 +1,13 @@
+*.mp3 !text !filter !merge !diff
+*.wav !text !filter !merge !diff
+*.mpq !text !filter !merge !diff
+*.mdx !text !filter !merge !diff
+*.MDX !text !filter !merge !diff
+*.glb !text !filter !merge !diff
+*.blp !text !filter !merge !diff
+*.w3x !text !filter !merge !diff
+*.w3m !text !filter !merge !diff
+*.rar !text !filter !merge !diff
+*.tga !text !filter !merge !diff
+*.m3d !text !filter !merge !diff
+*.png !text !filter !merge !diff
