@@ -14,3 +14,4 @@ war3/converted_models/
 # 超过100MB的音频文件（GitHub单文件限制100MB）
 war3/extracted_sounds/Sound/Music/mp3Music/OrcX1.mp3
 /war3/extracted_sounds/
+/war3/extracted_models/
