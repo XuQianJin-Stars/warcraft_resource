@@ -6,3 +6,6 @@
 
 # 游戏原始安装文件（可从其他渠道获取，无需纳入版本管理）
 war3/Warcraft III Frozen Throne/
+
+# 转换后的模型文件（可从 extracted_models 重新生成，无需纳入版本管理）
+war3/converted_models/
